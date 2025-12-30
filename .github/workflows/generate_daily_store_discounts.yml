@@ -1,0 +1,46 @@
+name: Generate daily item store discounts
+
+on:
+  schedule:
+    - cron: '0 1 * * *'  # Runs daily at midnight (time is utc so should be 1) 
+  workflow_dispatch:
+
+jobs:
+  generate-prices:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Optional: Clean up any old files if needed
+      # - name: Cleanup old price lists
+      #   run: rm -f public/avatar-prices.json public/banner-prices.json
+
+      - name: Fetch avatar items from API
+        run: curl -s https://api.wouterplanet.com/public/items/avatars > avatar-items.json
+
+      - name: Fetch banner items from API
+        run: curl -s https://api.wouterplanet.com/public/items/banners > banner-items.json
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Ensure output folder exists
+        run: mkdir -p public
+
+      - name: Generate avatar price list
+        run: node scripts/generate-price-list.js avatar-items.json public/avatar-prices.json
+
+      - name: Generate banner price list
+        run: node scripts/generate-price-list.js banner-items.json public/banner-prices.json
+
+      - name: Commit and push price lists
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: |
+            public/avatar-prices.json
+            public/banner-prices.json
+          message: "Auto-generate randomized store prices"
