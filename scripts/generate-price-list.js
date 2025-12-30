@@ -29,7 +29,7 @@ const items = JSON.parse(fs.readFileSync(inFile, 'utf-8'));
 const output = items.map(item => {
   const { min, max } = getDiscountRange(item.tier);
   const discountPercentage = +(randomDiscount(min, max)).toFixed(2);
-  const finalPrice = Math.round(item.valuePrice * (1 - discountPercentage));
+  const finalPrice = Math.ceil(item.valuePrice * (1 - discountPercentage));
   return {
     ...item,
     discountPercentage,
