@@ -1,23 +1,33 @@
 [
   {
-    "url": "christmas/christmas6.png",
-    "name": "Christmas Banner 6",
-    "valuePrice": 500,
-    "tier": "Epic",
-    "isSold": true,
-    "id": 11,
-    "discountPercentage": 0.25,
-    "finalPrice": 375
-  },
-  {
     "url": "winter/winter4.png",
     "name": "Winter Banner 4",
     "valuePrice": 200,
     "tier": "Epic",
     "isSold": true,
     "id": 15,
-    "discountPercentage": 0.17,
-    "finalPrice": 166
+    "discountPercentage": 0.2,
+    "finalPrice": 160
+  },
+  {
+    "url": "christmas/christmas6.png",
+    "name": "Christmas Banner 6",
+    "valuePrice": 500,
+    "tier": "Epic",
+    "isSold": true,
+    "id": 11,
+    "discountPercentage": 0.14,
+    "finalPrice": 430
+  },
+  {
+    "url": "winter/winter3.png",
+    "name": "Winter Banner 3",
+    "valuePrice": 200,
+    "tier": "Epic",
+    "isSold": true,
+    "id": 14,
+    "discountPercentage": 0.23,
+    "finalPrice": 154
   },
   {
     "url": "winter/winter2.png",
@@ -36,17 +46,7 @@
     "tier": "Epic",
     "isSold": true,
     "id": 12,
-    "discountPercentage": 0.25,
-    "finalPrice": 150
-  },
-  {
-    "url": "winter/winter3.png",
-    "name": "Winter Banner 3",
-    "valuePrice": 200,
-    "tier": "Epic",
-    "isSold": true,
-    "id": 14,
-    "discountPercentage": 0.18,
-    "finalPrice": 164
+    "discountPercentage": 0.12,
+    "finalPrice": 176
   }
 ]
