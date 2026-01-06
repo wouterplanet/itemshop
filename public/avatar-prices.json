@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "url": "whimsical/whimsical-space9.png",
+    "name": "Whimsical Space Avatar 9",
+    "valuePrice": 150,
+    "tier": "Epic",
+    "isSold": true,
+    "id": 16,
+    "discountPercentage": 0.11,
+    "finalPrice": 134
+  },
+  {
+    "url": "whimsical/whimsical-space7.png",
+    "name": "Whimsical Space Avatar 7",
+    "valuePrice": 150,
+    "tier": "Epic",
+    "isSold": true,
+    "id": 14,
+    "discountPercentage": 0.17,
+    "finalPrice": 125
+  },
+  {
+    "url": "whimsical/whimsical-space10.png",
+    "name": "Whimsical Space Avatar 10",
+    "valuePrice": 150,
+    "tier": "Epic",
+    "isSold": true,
+    "id": 17,
+    "discountPercentage": 0.24,
+    "finalPrice": 114
+  },
+  {
+    "url": "whimsical/whimsical-space4.png",
+    "name": "Whimsical Space Avatar 4",
+    "valuePrice": 150,
+    "tier": "Epic",
+    "isSold": true,
+    "id": 11,
+    "discountPercentage": 0.15,
+    "finalPrice": 128
+  },
+  {
+    "url": "whimsical/whimsical-space14.png",
+    "name": "Whimsical Space Avatar 14",
+    "valuePrice": 150,
+    "tier": "Epic",
+    "isSold": true,
+    "id": 21,
+    "discountPercentage": 0.19,
+    "finalPrice": 122
+  }
+]
