@@ -1,13 +1,23 @@
 [
   {
-    "url": "whimsical/whimsical-space19.png",
-    "name": "Planet Ronan",
-    "valuePrice": 100,
+    "url": "whimsical/whimsical-space14.png",
+    "name": "Planet Lunaris",
+    "valuePrice": 150,
     "tier": "Common",
     "isSold": true,
-    "id": 26,
-    "discountPercentage": 0.55,
-    "finalPrice": 45
+    "id": 21,
+    "discountPercentage": 0.24,
+    "finalPrice": 114
+  },
+  {
+    "url": "whimsical/whimsical-space11.png",
+    "name": "Astroid Rain",
+    "valuePrice": 150,
+    "tier": "Uncommon",
+    "isSold": true,
+    "id": 18,
+    "discountPercentage": 0.44,
+    "finalPrice": 85
   },
   {
     "url": "whimsical/whimsical-space20.png",
@@ -16,8 +26,8 @@
     "tier": "Common",
     "isSold": true,
     "id": 27,
-    "discountPercentage": 0.65,
-    "finalPrice": 35
+    "discountPercentage": 0.68,
+    "finalPrice": 32
   },
   {
     "url": "whimsical/whimsical-space12.png",
@@ -26,27 +36,17 @@
     "tier": "Common",
     "isSold": true,
     "id": 19,
-    "discountPercentage": 0.35,
-    "finalPrice": 65
+    "discountPercentage": 0.37,
+    "finalPrice": 63
   },
   {
-    "url": "whimsical/whimsical-space2.png",
-    "name": "Planet Lunaris III",
+    "url": "whimsical/whimsical-space6.png",
+    "name": "Planet Mosa Uno",
     "valuePrice": 80,
     "tier": "Common",
     "isSold": true,
-    "id": 9,
-    "discountPercentage": 0.28,
-    "finalPrice": 58
-  },
-  {
-    "url": "whimsical/whimsical-space15.png",
-    "name": "Space Ranger I",
-    "valuePrice": 80,
-    "tier": "Common",
-    "isSold": true,
-    "id": 22,
-    "discountPercentage": 0.65,
-    "finalPrice": 28
+    "id": 13,
+    "discountPercentage": 0.27,
+    "finalPrice": 59
   }
 ]
