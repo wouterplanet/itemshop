@@ -1,13 +1,33 @@
 [
   {
-    "url": "whimsical/whimsical-space17.png",
-    "name": "Floating Astronaut",
-    "valuePrice": 100,
+    "url": "whimsical/whimsical-space3.png",
+    "name": "Odesa Space Station",
+    "valuePrice": 150,
+    "tier": "Uncommon",
+    "isSold": true,
+    "id": 10,
+    "discountPercentage": 0.53,
+    "finalPrice": 71
+  },
+  {
+    "url": "whimsical/whimsical-space7.png",
+    "name": "Planet Solaris X",
+    "valuePrice": 150,
     "tier": "Common",
     "isSold": true,
-    "id": 24,
-    "discountPercentage": 0.31,
-    "finalPrice": 69
+    "id": 14,
+    "discountPercentage": 0.22,
+    "finalPrice": 117
+  },
+  {
+    "url": "whimsical/whimsical-space5.png",
+    "name": "Planet Aurora",
+    "valuePrice": 80,
+    "tier": "Common",
+    "isSold": true,
+    "id": 12,
+    "discountPercentage": 0.46,
+    "finalPrice": 44
   },
   {
     "url": "whimsical/whimsical-space10.png",
@@ -16,18 +36,8 @@
     "tier": "Rare",
     "isSold": true,
     "id": 17,
-    "discountPercentage": 0.03,
-    "finalPrice": 194
-  },
-  {
-    "url": "whimsical/whimsical-space11.png",
-    "name": "Astroid Rain",
-    "valuePrice": 150,
-    "tier": "Uncommon",
-    "isSold": true,
-    "id": 18,
-    "discountPercentage": 0.39,
-    "finalPrice": 92
+    "discountPercentage": 0.15,
+    "finalPrice": 170
   },
   {
     "url": "whimsical/whimsical-space13.png",
@@ -36,17 +46,7 @@
     "tier": "Epic",
     "isSold": true,
     "id": 20,
-    "discountPercentage": 0.19,
-    "finalPrice": 729
-  },
-  {
-    "url": "whimsical/whimsical-space20.png",
-    "name": "Planet Nova Sagi",
-    "valuePrice": 100,
-    "tier": "Common",
-    "isSold": true,
-    "id": 27,
-    "discountPercentage": 0.6,
-    "finalPrice": 40
+    "discountPercentage": 0.12,
+    "finalPrice": 792
   }
 ]
