@@ -1,13 +1,13 @@
 [
   {
-    "url": "whimsical/whimsical-space3.png",
-    "name": "Odesa Space Station",
-    "valuePrice": 150,
-    "tier": "Uncommon",
+    "url": "whimsical/whimsical-space10.png",
+    "name": "Planet Nova Aurelia",
+    "valuePrice": 200,
+    "tier": "Rare",
     "isSold": true,
-    "id": 10,
-    "discountPercentage": 0.53,
-    "finalPrice": 71
+    "id": 17,
+    "discountPercentage": 0.17,
+    "finalPrice": 166
   },
   {
     "url": "whimsical/whimsical-space7.png",
@@ -16,28 +16,18 @@
     "tier": "Common",
     "isSold": true,
     "id": 14,
-    "discountPercentage": 0.22,
-    "finalPrice": 117
+    "discountPercentage": 0.21,
+    "finalPrice": 119
   },
   {
-    "url": "whimsical/whimsical-space5.png",
-    "name": "Planet Aurora",
-    "valuePrice": 80,
+    "url": "whimsical/whimsical-space19.png",
+    "name": "Planet Ronan",
+    "valuePrice": 100,
     "tier": "Common",
     "isSold": true,
-    "id": 12,
-    "discountPercentage": 0.46,
-    "finalPrice": 44
-  },
-  {
-    "url": "whimsical/whimsical-space10.png",
-    "name": "Planet Nova Aurelia",
-    "valuePrice": 200,
-    "tier": "Rare",
-    "isSold": true,
-    "id": 17,
-    "discountPercentage": 0.15,
-    "finalPrice": 170
+    "id": 26,
+    "discountPercentage": 0.21,
+    "finalPrice": 79
   },
   {
     "url": "whimsical/whimsical-space13.png",
@@ -46,7 +36,17 @@
     "tier": "Epic",
     "isSold": true,
     "id": 20,
-    "discountPercentage": 0.12,
-    "finalPrice": 792
+    "discountPercentage": 0.23,
+    "finalPrice": 693
+  },
+  {
+    "url": "whimsical/whimsical-space9.png",
+    "name": "Planet Rex A.U",
+    "valuePrice": 150,
+    "tier": "Uncommon",
+    "isSold": true,
+    "id": 16,
+    "discountPercentage": 0.39,
+    "finalPrice": 92
   }
 ]
