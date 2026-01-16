@@ -1,43 +1,23 @@
 [
   {
-    "url": "whimsical/whimsical-space15.png",
-    "name": "Space Ranger I",
-    "valuePrice": 80,
-    "tier": "Common",
-    "isSold": true,
-    "id": 22,
-    "discountPercentage": 0.39,
-    "finalPrice": 49
-  },
-  {
     "url": "whimsical/whimsical-space8.png",
     "name": "Planet Palari",
     "valuePrice": 100,
     "tier": "Common",
     "isSold": true,
     "id": 15,
+    "discountPercentage": 0.31,
+    "finalPrice": 69
+  },
+  {
+    "url": "whimsical/whimsical-space12.png",
+    "name": "Launch of Odesa Mission One",
+    "valuePrice": 100,
+    "tier": "Common",
+    "isSold": true,
+    "id": 19,
     "discountPercentage": 0.22,
     "finalPrice": 78
-  },
-  {
-    "url": "whimsical/whimsical-space4.png",
-    "name": "Odesa Mine Station",
-    "valuePrice": 100,
-    "tier": "Common",
-    "isSold": true,
-    "id": 11,
-    "discountPercentage": 0.4,
-    "finalPrice": 60
-  },
-  {
-    "url": "whimsical/whimsical-space19.png",
-    "name": "Planet Ronan",
-    "valuePrice": 100,
-    "tier": "Common",
-    "isSold": true,
-    "id": 26,
-    "discountPercentage": 0.29,
-    "finalPrice": 71
   },
   {
     "url": "whimsical/whimsical-space16.png",
@@ -46,7 +26,27 @@
     "tier": "Uncommon",
     "isSold": true,
     "id": 23,
-    "discountPercentage": 0.47,
-    "finalPrice": 80
+    "discountPercentage": 0.46,
+    "finalPrice": 81
+  },
+  {
+    "url": "whimsical/whimsical-space3.png",
+    "name": "Odesa Space Station",
+    "valuePrice": 150,
+    "tier": "Uncommon",
+    "isSold": true,
+    "id": 10,
+    "discountPercentage": 0.52,
+    "finalPrice": 72
+  },
+  {
+    "url": "whimsical/whimsical-space14.png",
+    "name": "Planet Lunaris",
+    "valuePrice": 150,
+    "tier": "Common",
+    "isSold": true,
+    "id": 21,
+    "discountPercentage": 0.76,
+    "finalPrice": 36
   }
 ]
