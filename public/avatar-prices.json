@@ -1,52 +1,52 @@
 [
   {
+    "url": "whimsical/whimsical-space4.png",
+    "name": "Odesa Mine Station",
+    "valuePrice": 100,
+    "tier": "Common",
+    "isSold": true,
+    "id": 11,
+    "discountPercentage": 0.4,
+    "finalPrice": 60
+  },
+  {
+    "url": "whimsical/whimsical-space17.png",
+    "name": "Floating Astronaut",
+    "valuePrice": 100,
+    "tier": "Common",
+    "isSold": true,
+    "id": 24,
+    "discountPercentage": 0.26,
+    "finalPrice": 74
+  },
+  {
     "url": "whimsical/whimsical-space3.png",
     "name": "Odesa Space Station",
     "valuePrice": 150,
     "tier": "Uncommon",
     "isSold": true,
     "id": 10,
-    "discountPercentage": 0.38,
-    "finalPrice": 93
-  },
-  {
-    "url": "whimsical/whimsical-space15.png",
-    "name": "Space Ranger I",
-    "valuePrice": 80,
-    "tier": "Common",
-    "isSold": true,
-    "id": 22,
-    "discountPercentage": 0.2,
-    "finalPrice": 64
-  },
-  {
-    "url": "whimsical/whimsical-space10.png",
-    "name": "Planet Nova Aurelia",
-    "valuePrice": 200,
-    "tier": "Rare",
-    "isSold": true,
-    "id": 17,
-    "discountPercentage": 0.06,
-    "finalPrice": 188
-  },
-  {
-    "url": "whimsical/whimsical-space6.png",
-    "name": "Planet Mosa Uno",
-    "valuePrice": 80,
-    "tier": "Common",
-    "isSold": true,
-    "id": 13,
-    "discountPercentage": 0.29,
-    "finalPrice": 57
-  },
-  {
-    "url": "whimsical/whimsical-space16.png",
-    "name": "Planet Lunaria V",
-    "valuePrice": 150,
-    "tier": "Uncommon",
-    "isSold": true,
-    "id": 23,
     "discountPercentage": 0.27,
     "finalPrice": 110
+  },
+  {
+    "url": "whimsical/whimsical-space19.png",
+    "name": "Planet Ronan",
+    "valuePrice": 100,
+    "tier": "Common",
+    "isSold": true,
+    "id": 26,
+    "discountPercentage": 0.65,
+    "finalPrice": 35
+  },
+  {
+    "url": "whimsical/whimsical-space2.png",
+    "name": "Planet Lunaris III",
+    "valuePrice": 80,
+    "tier": "Common",
+    "isSold": true,
+    "id": 9,
+    "discountPercentage": 0.32,
+    "finalPrice": 55
   }
 ]
