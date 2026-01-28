@@ -1,52 +1,52 @@
 [
   {
-    "url": "whimsical/whimsical-space6.png",
-    "name": "Planet Mosa Uno",
-    "valuePrice": 80,
-    "tier": "Common",
+    "url": "whimsical/whimsical-space13.png",
+    "name": "Shooting Stars",
+    "valuePrice": 900,
+    "tier": "Epic",
     "isSold": true,
-    "id": 13,
-    "discountPercentage": 0.56,
-    "finalPrice": 36
+    "id": 20,
+    "discountPercentage": 0.19,
+    "finalPrice": 729
   },
   {
-    "url": "whimsical/whimsical-space10.png",
-    "name": "Planet Nova Aurelia",
-    "valuePrice": 200,
-    "tier": "Rare",
+    "url": "whimsical/whimsical-space11.png",
+    "name": "Astroid Rain",
+    "valuePrice": 150,
+    "tier": "Uncommon",
     "isSold": true,
-    "id": 17,
-    "discountPercentage": 0.09,
-    "finalPrice": 182
+    "id": 18,
+    "discountPercentage": 0.53,
+    "finalPrice": 71
   },
   {
-    "url": "whimsical/whimsical-space2.png",
-    "name": "Planet Lunaris III",
-    "valuePrice": 80,
+    "url": "whimsical/whimsical-space7.png",
+    "name": "Planet Solaris X",
+    "valuePrice": 150,
     "tier": "Common",
     "isSold": true,
-    "id": 9,
-    "discountPercentage": 0.57,
-    "finalPrice": 35
-  },
-  {
-    "url": "whimsical/whimsical-space17.png",
-    "name": "Floating Astronaut",
-    "valuePrice": 100,
-    "tier": "Common",
-    "isSold": true,
-    "id": 24,
+    "id": 14,
     "discountPercentage": 0.6,
-    "finalPrice": 40
+    "finalPrice": 60
   },
   {
-    "url": "whimsical/whimsical-space4.png",
-    "name": "Odesa Mine Station",
-    "valuePrice": 100,
-    "tier": "Common",
+    "url": "whimsical/whimsical-space9.png",
+    "name": "Planet Rex A.U",
+    "valuePrice": 150,
+    "tier": "Uncommon",
     "isSold": true,
-    "id": 11,
-    "discountPercentage": 0.69,
-    "finalPrice": 32
+    "id": 16,
+    "discountPercentage": 0.27,
+    "finalPrice": 110
+  },
+  {
+    "url": "whimsical/whimsical-space16.png",
+    "name": "Planet Lunaria V",
+    "valuePrice": 150,
+    "tier": "Uncommon",
+    "isSold": true,
+    "id": 23,
+    "discountPercentage": 0.26,
+    "finalPrice": 111
   }
 ]
