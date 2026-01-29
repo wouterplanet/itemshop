@@ -1,5 +1,15 @@
 [
   {
+    "url": "whimsical/whimsical-space14.png",
+    "name": "Planet Lunaris",
+    "valuePrice": 150,
+    "tier": "Common",
+    "isSold": true,
+    "id": 21,
+    "discountPercentage": 0.44,
+    "finalPrice": 85
+  },
+  {
     "url": "whimsical/whimsical-space13.png",
     "name": "Shooting Stars",
     "valuePrice": 900,
@@ -10,43 +20,33 @@
     "finalPrice": 729
   },
   {
-    "url": "whimsical/whimsical-space11.png",
-    "name": "Astroid Rain",
-    "valuePrice": 150,
-    "tier": "Uncommon",
-    "isSold": true,
-    "id": 18,
-    "discountPercentage": 0.53,
-    "finalPrice": 71
-  },
-  {
-    "url": "whimsical/whimsical-space7.png",
-    "name": "Planet Solaris X",
-    "valuePrice": 150,
+    "url": "whimsical/whimsical-space5.png",
+    "name": "Planet Aurora",
+    "valuePrice": 80,
     "tier": "Common",
     "isSold": true,
-    "id": 14,
-    "discountPercentage": 0.6,
-    "finalPrice": 60
+    "id": 12,
+    "discountPercentage": 0.78,
+    "finalPrice": 18
   },
   {
-    "url": "whimsical/whimsical-space9.png",
-    "name": "Planet Rex A.U",
-    "valuePrice": 150,
-    "tier": "Uncommon",
+    "url": "whimsical/whimsical-space15.png",
+    "name": "Space Ranger I",
+    "valuePrice": 80,
+    "tier": "Common",
     "isSold": true,
-    "id": 16,
-    "discountPercentage": 0.27,
-    "finalPrice": 110
+    "id": 22,
+    "discountPercentage": 0.72,
+    "finalPrice": 23
   },
   {
-    "url": "whimsical/whimsical-space16.png",
-    "name": "Planet Lunaria V",
-    "valuePrice": 150,
-    "tier": "Uncommon",
+    "url": "whimsical/whimsical-space17.png",
+    "name": "Floating Astronaut",
+    "valuePrice": 100,
+    "tier": "Common",
     "isSold": true,
-    "id": 23,
-    "discountPercentage": 0.26,
-    "finalPrice": 111
+    "id": 24,
+    "discountPercentage": 0.44,
+    "finalPrice": 57
   }
 ]
