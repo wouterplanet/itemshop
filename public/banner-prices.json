@@ -1,23 +1,13 @@
 [
   {
-    "url": "winter/winter3.png",
-    "name": "Winter Banner 3",
+    "url": "winter/winter4.png",
+    "name": "Winter Banner 4",
     "valuePrice": 200,
     "tier": "Common",
     "isSold": true,
-    "id": 14,
-    "discountPercentage": 0.64,
-    "finalPrice": 72
-  },
-  {
-    "url": "christmas/christmas3.png",
-    "name": "Christmas Cookies",
-    "valuePrice": 500,
-    "tier": "Epic",
-    "isSold": true,
-    "id": 8,
-    "discountPercentage": 0.17,
-    "finalPrice": 415
+    "id": 15,
+    "discountPercentage": 0.55,
+    "finalPrice": 90
   },
   {
     "url": "christmas/christmas5.png",
@@ -26,8 +16,8 @@
     "tier": "Uncommon",
     "isSold": true,
     "id": 10,
-    "discountPercentage": 0.42,
-    "finalPrice": 117
+    "discountPercentage": 0.6,
+    "finalPrice": 80
   },
   {
     "url": "winter/winter2.png",
@@ -36,8 +26,18 @@
     "tier": "Common",
     "isSold": true,
     "id": 13,
-    "discountPercentage": 0.54,
-    "finalPrice": 92
+    "discountPercentage": 0.73,
+    "finalPrice": 54
+  },
+  {
+    "url": "christmas/christmas6.png",
+    "name": "Christmas is better with friends",
+    "valuePrice": 500,
+    "tier": "Epic",
+    "isSold": true,
+    "id": 11,
+    "discountPercentage": 0.2,
+    "finalPrice": 400
   },
   {
     "url": "christmas/christmas4.png",
@@ -46,7 +46,7 @@
     "tier": "Common",
     "isSold": true,
     "id": 9,
-    "discountPercentage": 0.22,
-    "finalPrice": 156
+    "discountPercentage": 0.45,
+    "finalPrice": 111
   }
 ]
