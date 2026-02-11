@@ -1,23 +1,13 @@
 [
   {
-    "url": "whimsical/whimsical-space20.png",
-    "name": "Planet Nova Sagi",
-    "valuePrice": 100,
+    "url": "whimsical/whimsical-space5.png",
+    "name": "Planet Aurora",
+    "valuePrice": 80,
     "tier": "Common",
     "isSold": true,
-    "id": 27,
-    "discountPercentage": 0.5,
-    "finalPrice": 50
-  },
-  {
-    "url": "whimsical/whimsical-space14.png",
-    "name": "Planet Lunaris",
-    "valuePrice": 150,
-    "tier": "Common",
-    "isSold": true,
-    "id": 21,
-    "discountPercentage": 0.58,
-    "finalPrice": 64
+    "id": 12,
+    "discountPercentage": 0.52,
+    "finalPrice": 39
   },
   {
     "url": "whimsical/whimsical-space9.png",
@@ -26,18 +16,28 @@
     "tier": "Uncommon",
     "isSold": true,
     "id": 16,
-    "discountPercentage": 0.42,
-    "finalPrice": 88
+    "discountPercentage": 0.4,
+    "finalPrice": 90
   },
   {
-    "url": "whimsical/whimsical-space11.png",
-    "name": "Astroid Rain",
+    "url": "whimsical/whimsical-space7.png",
+    "name": "Planet Solaris X",
     "valuePrice": 150,
-    "tier": "Uncommon",
+    "tier": "Common",
     "isSold": true,
-    "id": 18,
-    "discountPercentage": 0.54,
-    "finalPrice": 69
+    "id": 14,
+    "discountPercentage": 0.77,
+    "finalPrice": 35
+  },
+  {
+    "url": "whimsical/whimsical-space13.png",
+    "name": "Shooting Stars",
+    "valuePrice": 900,
+    "tier": "Epic",
+    "isSold": true,
+    "id": 20,
+    "discountPercentage": 0.22,
+    "finalPrice": 702
   },
   {
     "url": "whimsical/whimsical-space2.png",
@@ -46,7 +46,7 @@
     "tier": "Common",
     "isSold": true,
     "id": 9,
-    "discountPercentage": 0.74,
-    "finalPrice": 21
+    "discountPercentage": 0.44,
+    "finalPrice": 45
   }
 ]
