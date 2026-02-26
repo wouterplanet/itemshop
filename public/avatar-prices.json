@@ -1,43 +1,13 @@
 [
   {
-    "url": "whimsical/whimsical-space10.png",
-    "name": "Planet Nova Aurelia",
-    "valuePrice": 200,
-    "tier": "Rare",
-    "isSold": true,
-    "id": 17,
-    "discountPercentage": 0.05,
-    "finalPrice": 190
-  },
-  {
     "url": "whimsical/whimsical-space2.png",
     "name": "Planet Lunaris III",
     "valuePrice": 80,
     "tier": "Common",
     "isSold": true,
     "id": 9,
-    "discountPercentage": 0.59,
-    "finalPrice": 33
-  },
-  {
-    "url": "whimsical/whimsical-space20.png",
-    "name": "Planet Nova Sagi",
-    "valuePrice": 100,
-    "tier": "Common",
-    "isSold": true,
-    "id": 27,
-    "discountPercentage": 0.7,
-    "finalPrice": 31
-  },
-  {
-    "url": "whimsical/whimsical-space9.png",
-    "name": "Planet Rex A.U",
-    "valuePrice": 150,
-    "tier": "Uncommon",
-    "isSold": true,
-    "id": 16,
-    "discountPercentage": 0.5,
-    "finalPrice": 75
+    "discountPercentage": 0.36,
+    "finalPrice": 52
   },
   {
     "url": "whimsical/whimsical-space3.png",
@@ -46,7 +16,37 @@
     "tier": "Uncommon",
     "isSold": true,
     "id": 10,
-    "discountPercentage": 0.38,
-    "finalPrice": 93
+    "discountPercentage": 0.37,
+    "finalPrice": 95
+  },
+  {
+    "url": "whimsical/whimsical-space19.png",
+    "name": "Planet Ronan",
+    "valuePrice": 100,
+    "tier": "Common",
+    "isSold": true,
+    "id": 26,
+    "discountPercentage": 0.74,
+    "finalPrice": 26
+  },
+  {
+    "url": "whimsical/whimsical-space13.png",
+    "name": "Shooting Stars",
+    "valuePrice": 900,
+    "tier": "Epic",
+    "isSold": true,
+    "id": 20,
+    "discountPercentage": 0.23,
+    "finalPrice": 693
+  },
+  {
+    "url": "whimsical/whimsical-space17.png",
+    "name": "Floating Astronaut",
+    "valuePrice": 100,
+    "tier": "Common",
+    "isSold": true,
+    "id": 24,
+    "discountPercentage": 0.46,
+    "finalPrice": 54
   }
 ]
