@@ -1,23 +1,33 @@
 [
   {
-    "url": "whimsical/whimsical-space2.png",
-    "name": "Planet Lunaris III",
-    "valuePrice": 80,
+    "url": "whimsical/whimsical-space1.png",
+    "name": "Planet Noctis",
+    "valuePrice": 100,
     "tier": "Common",
     "isSold": true,
-    "id": 9,
-    "discountPercentage": 0.36,
-    "finalPrice": 52
+    "id": 8,
+    "discountPercentage": 0.76,
+    "finalPrice": 24
   },
   {
-    "url": "whimsical/whimsical-space3.png",
-    "name": "Odesa Space Station",
+    "url": "whimsical/whimsical-space4.png",
+    "name": "Odesa Mine Station",
+    "valuePrice": 100,
+    "tier": "Common",
+    "isSold": true,
+    "id": 11,
+    "discountPercentage": 0.67,
+    "finalPrice": 33
+  },
+  {
+    "url": "whimsical/whimsical-space16.png",
+    "name": "Planet Lunaria V",
     "valuePrice": 150,
     "tier": "Uncommon",
     "isSold": true,
-    "id": 10,
-    "discountPercentage": 0.37,
-    "finalPrice": 95
+    "id": 23,
+    "discountPercentage": 0.47,
+    "finalPrice": 80
   },
   {
     "url": "whimsical/whimsical-space19.png",
@@ -26,27 +36,17 @@
     "tier": "Common",
     "isSold": true,
     "id": 26,
-    "discountPercentage": 0.74,
-    "finalPrice": 26
+    "discountPercentage": 0.68,
+    "finalPrice": 32
   },
   {
-    "url": "whimsical/whimsical-space13.png",
-    "name": "Shooting Stars",
-    "valuePrice": 900,
-    "tier": "Epic",
+    "url": "whimsical/whimsical-space9.png",
+    "name": "Planet Rex A.U",
+    "valuePrice": 150,
+    "tier": "Uncommon",
     "isSold": true,
-    "id": 20,
-    "discountPercentage": 0.23,
-    "finalPrice": 693
-  },
-  {
-    "url": "whimsical/whimsical-space17.png",
-    "name": "Floating Astronaut",
-    "valuePrice": 100,
-    "tier": "Common",
-    "isSold": true,
-    "id": 24,
-    "discountPercentage": 0.46,
-    "finalPrice": 54
+    "id": 16,
+    "discountPercentage": 0.49,
+    "finalPrice": 77
   }
 ]
