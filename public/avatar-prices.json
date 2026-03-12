@@ -1,33 +1,13 @@
 [
   {
-    "url": "whimsical/whimsical-space1.png",
-    "name": "Planet Noctis",
+    "url": "whimsical/whimsical-space19.png",
+    "name": "Planet Ronan",
     "valuePrice": 100,
     "tier": "Common",
     "isSold": true,
-    "id": 8,
-    "discountPercentage": 0.55,
-    "finalPrice": 45
-  },
-  {
-    "url": "whimsical/whimsical-space7.png",
-    "name": "Planet Solaris X",
-    "valuePrice": 150,
-    "tier": "Common",
-    "isSold": true,
-    "id": 14,
-    "discountPercentage": 0.54,
-    "finalPrice": 69
-  },
-  {
-    "url": "whimsical/whimsical-space20.png",
-    "name": "Planet Nova Sagi",
-    "valuePrice": 100,
-    "tier": "Common",
-    "isSold": true,
-    "id": 27,
-    "discountPercentage": 0.37,
-    "finalPrice": 63
+    "id": 26,
+    "discountPercentage": 0.22,
+    "finalPrice": 78
   },
   {
     "url": "whimsical/whimsical-space13.png",
@@ -36,17 +16,37 @@
     "tier": "Epic",
     "isSold": true,
     "id": 20,
-    "discountPercentage": 0.21,
-    "finalPrice": 711
+    "discountPercentage": 0.24,
+    "finalPrice": 684
   },
   {
-    "url": "whimsical/whimsical-space16.png",
-    "name": "Planet Lunaria V",
+    "url": "whimsical/whimsical-space8.png",
+    "name": "Planet Palari",
+    "valuePrice": 100,
+    "tier": "Common",
+    "isSold": true,
+    "id": 15,
+    "discountPercentage": 0.45,
+    "finalPrice": 56
+  },
+  {
+    "url": "whimsical/whimsical-space9.png",
+    "name": "Planet Rex A.U",
     "valuePrice": 150,
     "tier": "Uncommon",
     "isSold": true,
-    "id": 23,
-    "discountPercentage": 0.46,
-    "finalPrice": 81
+    "id": 16,
+    "discountPercentage": 0.29,
+    "finalPrice": 107
+  },
+  {
+    "url": "whimsical/whimsical-space12.png",
+    "name": "Launch of Odesa Mission One",
+    "valuePrice": 100,
+    "tier": "Common",
+    "isSold": true,
+    "id": 19,
+    "discountPercentage": 0.56,
+    "finalPrice": 44
   }
 ]
