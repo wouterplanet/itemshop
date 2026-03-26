@@ -1,52 +1,52 @@
 [
   {
-    "url": "whimsical/whimsical-space2.png",
-    "name": "Planet Lunaris III",
-    "valuePrice": 80,
+    "url": "whimsical/whimsical-space7.png",
+    "name": "Planet Solaris X",
+    "valuePrice": 150,
     "tier": "Common",
     "isSold": true,
-    "id": 9,
-    "discountPercentage": 0.62,
-    "finalPrice": 31
+    "id": 14,
+    "discountPercentage": 0.64,
+    "finalPrice": 54
   },
   {
-    "url": "whimsical/whimsical-space17.png",
-    "name": "Floating Astronaut",
-    "valuePrice": 100,
-    "tier": "Common",
+    "url": "whimsical/whimsical-space16.png",
+    "name": "Planet Lunaria V",
+    "valuePrice": 150,
+    "tier": "Uncommon",
     "isSold": true,
-    "id": 24,
-    "discountPercentage": 0.31,
-    "finalPrice": 69
+    "id": 23,
+    "discountPercentage": 0.26,
+    "finalPrice": 111
   },
   {
-    "url": "whimsical/whimsical-space4.png",
-    "name": "Odesa Mine Station",
-    "valuePrice": 100,
-    "tier": "Common",
+    "url": "birthday/bday_ship.png",
+    "name": "Birthday Party Ship",
+    "valuePrice": 15,
+    "tier": "Rare",
     "isSold": true,
-    "id": 11,
-    "discountPercentage": 0.68,
-    "finalPrice": 32
+    "id": 31,
+    "discountPercentage": 0.08,
+    "finalPrice": 14
   },
   {
-    "url": "birthday/bday_ship2.png",
-    "name": "Birthday Party Ship 2",
+    "url": "birthday/bday_friends.png",
+    "name": "Birthday Party with friends",
     "valuePrice": 0,
     "tier": "Epic",
     "isSold": true,
-    "id": 32,
-    "discountPercentage": 0.24,
+    "id": 29,
+    "discountPercentage": 0.22,
     "finalPrice": 0
   },
   {
-    "url": "whimsical/whimsical-space10.png",
-    "name": "Planet Nova Aurelia",
-    "valuePrice": 200,
-    "tier": "Rare",
+    "url": "whimsical/whimsical-space9.png",
+    "name": "Planet Rex A.U",
+    "valuePrice": 150,
+    "tier": "Uncommon",
     "isSold": true,
-    "id": 17,
-    "discountPercentage": 0.08,
-    "finalPrice": 184
+    "id": 16,
+    "discountPercentage": 0.59,
+    "finalPrice": 62
   }
 ]
