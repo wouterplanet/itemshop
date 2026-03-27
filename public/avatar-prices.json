@@ -1,52 +1,52 @@
 [
   {
-    "url": "whimsical/whimsical-space7.png",
-    "name": "Planet Solaris X",
-    "valuePrice": 150,
-    "tier": "Common",
-    "isSold": true,
-    "id": 14,
-    "discountPercentage": 0.64,
-    "finalPrice": 54
-  },
-  {
-    "url": "whimsical/whimsical-space16.png",
-    "name": "Planet Lunaria V",
-    "valuePrice": 150,
-    "tier": "Uncommon",
-    "isSold": true,
-    "id": 23,
-    "discountPercentage": 0.26,
-    "finalPrice": 111
-  },
-  {
     "url": "birthday/bday_ship.png",
     "name": "Birthday Party Ship",
     "valuePrice": 15,
     "tier": "Rare",
     "isSold": true,
     "id": 31,
-    "discountPercentage": 0.08,
-    "finalPrice": 14
+    "discountPercentage": 0.03,
+    "finalPrice": 15
   },
   {
-    "url": "birthday/bday_friends.png",
-    "name": "Birthday Party with friends",
+    "url": "birthday/bday_planet_hat.png",
+    "name": "Birthday Party Planet",
     "valuePrice": 0,
-    "tier": "Epic",
+    "tier": "Rare",
     "isSold": true,
-    "id": 29,
-    "discountPercentage": 0.22,
+    "id": 30,
+    "discountPercentage": 0.1,
     "finalPrice": 0
   },
   {
-    "url": "whimsical/whimsical-space9.png",
-    "name": "Planet Rex A.U",
-    "valuePrice": 150,
-    "tier": "Uncommon",
+    "url": "whimsical/whimsical-space5.png",
+    "name": "Planet Aurora",
+    "valuePrice": 80,
+    "tier": "Common",
     "isSold": true,
-    "id": 16,
-    "discountPercentage": 0.59,
-    "finalPrice": 62
+    "id": 12,
+    "discountPercentage": 0.62,
+    "finalPrice": 31
+  },
+  {
+    "url": "whimsical/whimsical-space13.png",
+    "name": "Shooting Stars",
+    "valuePrice": 900,
+    "tier": "Epic",
+    "isSold": true,
+    "id": 20,
+    "discountPercentage": 0.19,
+    "finalPrice": 729
+  },
+  {
+    "url": "whimsical/whimsical-space4.png",
+    "name": "Odesa Mine Station",
+    "valuePrice": 100,
+    "tier": "Common",
+    "isSold": true,
+    "id": 11,
+    "discountPercentage": 0.53,
+    "finalPrice": 47
   }
 ]
