@@ -1,43 +1,23 @@
 [
   {
-    "url": "whimsical/whimsical-space16.png",
-    "name": "Planet Lunaria V",
+    "url": "whimsical/whimsical-space19.png",
+    "name": "Planet Ronan",
+    "valuePrice": 100,
+    "tier": "Common",
+    "isSold": true,
+    "id": 26,
+    "discountPercentage": 0.62,
+    "finalPrice": 38
+  },
+  {
+    "url": "whimsical/whimsical-space9.png",
+    "name": "Planet Rex A.U",
     "valuePrice": 150,
     "tier": "Uncommon",
     "isSold": true,
-    "id": 23,
-    "discountPercentage": 0.4,
-    "finalPrice": 90
-  },
-  {
-    "url": "whimsical/whimsical-space3.png",
-    "name": "Odesa Space Station",
-    "valuePrice": 150,
-    "tier": "Uncommon",
-    "isSold": true,
-    "id": 10,
-    "discountPercentage": 0.57,
-    "finalPrice": 65
-  },
-  {
-    "url": "birthday/bday_aliens.png",
-    "name": "Birthday Alien Celebration",
-    "valuePrice": 0,
-    "tier": "Rare",
-    "isSold": true,
-    "id": 33,
-    "discountPercentage": 0.11,
-    "finalPrice": 0
-  },
-  {
-    "url": "birthday/bday_planet_hat.png",
-    "name": "Birthday Party Planet",
-    "valuePrice": 0,
-    "tier": "Rare",
-    "isSold": true,
-    "id": 30,
-    "discountPercentage": 0.05,
-    "finalPrice": 0
+    "id": 16,
+    "discountPercentage": 0.52,
+    "finalPrice": 72
   },
   {
     "url": "whimsical/whimsical-space20.png",
@@ -46,7 +26,27 @@
     "tier": "Common",
     "isSold": true,
     "id": 27,
-    "discountPercentage": 0.45,
-    "finalPrice": 56
+    "discountPercentage": 0.46,
+    "finalPrice": 54
+  },
+  {
+    "url": "birthday/bday_planet_hat.png",
+    "name": "Birthday Party Planet",
+    "valuePrice": 0,
+    "tier": "Rare",
+    "isSold": true,
+    "id": 30,
+    "discountPercentage": 0.16,
+    "finalPrice": 0
+  },
+  {
+    "url": "birthday/bday_aliens.png",
+    "name": "Birthday Alien Celebration",
+    "valuePrice": 0,
+    "tier": "Rare",
+    "isSold": true,
+    "id": 33,
+    "discountPercentage": 0.09,
+    "finalPrice": 0
   }
 ]
