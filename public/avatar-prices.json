@@ -1,43 +1,23 @@
 [
   {
-    "url": "whimsical/whimsical-space12.png",
-    "name": "Launch of Odesa Mission One",
-    "valuePrice": 100,
-    "tier": "Common",
-    "isSold": true,
-    "id": 19,
-    "discountPercentage": 0.23,
-    "finalPrice": 77
-  },
-  {
-    "url": "whimsical/whimsical-space5.png",
-    "name": "Planet Aurora",
-    "valuePrice": 80,
-    "tier": "Common",
-    "isSold": true,
-    "id": 12,
-    "discountPercentage": 0.32,
-    "finalPrice": 55
-  },
-  {
     "url": "whimsical/whimsical-space17.png",
     "name": "Floating Astronaut",
     "valuePrice": 100,
     "tier": "Common",
     "isSold": true,
     "id": 24,
-    "discountPercentage": 0.47,
-    "finalPrice": 53
+    "discountPercentage": 0.63,
+    "finalPrice": 37
   },
   {
-    "url": "whimsical/whimsical-space16.png",
-    "name": "Planet Lunaria V",
-    "valuePrice": 150,
-    "tier": "Uncommon",
+    "url": "whimsical/whimsical-space19.png",
+    "name": "Planet Ronan",
+    "valuePrice": 100,
+    "tier": "Common",
     "isSold": true,
-    "id": 23,
-    "discountPercentage": 0.5,
-    "finalPrice": 75
+    "id": 26,
+    "discountPercentage": 0.64,
+    "finalPrice": 36
   },
   {
     "url": "whimsical/whimsical-space20.png",
@@ -46,7 +26,27 @@
     "tier": "Common",
     "isSold": true,
     "id": 27,
-    "discountPercentage": 0.52,
-    "finalPrice": 48
+    "discountPercentage": 0.3,
+    "finalPrice": 70
+  },
+  {
+    "url": "whimsical/whimsical-space5.png",
+    "name": "Planet Aurora",
+    "valuePrice": 80,
+    "tier": "Common",
+    "isSold": true,
+    "id": 12,
+    "discountPercentage": 0.46,
+    "finalPrice": 44
+  },
+  {
+    "url": "whimsical/whimsical-space2.png",
+    "name": "Planet Lunaris III",
+    "valuePrice": 80,
+    "tier": "Common",
+    "isSold": true,
+    "id": 9,
+    "discountPercentage": 0.49,
+    "finalPrice": 41
   }
 ]
