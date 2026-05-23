@@ -6,18 +6,28 @@
     "tier": "Common",
     "isSold": true,
     "id": 26,
-    "discountPercentage": 0.2,
-    "finalPrice": 80
+    "discountPercentage": 0.55,
+    "finalPrice": 45
   },
   {
-    "url": "whimsical/whimsical-space13.png",
-    "name": "Shooting Stars",
-    "valuePrice": 900,
-    "tier": "Epic",
+    "url": "whimsical/whimsical-space2.png",
+    "name": "Planet Lunaris III",
+    "valuePrice": 80,
+    "tier": "Common",
     "isSold": true,
-    "id": 20,
-    "discountPercentage": 0.13,
-    "finalPrice": 783
+    "id": 9,
+    "discountPercentage": 0.45,
+    "finalPrice": 44
+  },
+  {
+    "url": "whimsical/whimsical-space1.png",
+    "name": "Planet Noctis",
+    "valuePrice": 100,
+    "tier": "Common",
+    "isSold": true,
+    "id": 8,
+    "discountPercentage": 0.78,
+    "finalPrice": 22
   },
   {
     "url": "whimsical/whimsical-space5.png",
@@ -26,27 +36,17 @@
     "tier": "Common",
     "isSold": true,
     "id": 12,
-    "discountPercentage": 0.62,
-    "finalPrice": 31
+    "discountPercentage": 0.26,
+    "finalPrice": 60
   },
   {
-    "url": "whimsical/whimsical-space4.png",
-    "name": "Odesa Mine Station",
-    "valuePrice": 100,
+    "url": "whimsical/whimsical-space14.png",
+    "name": "Planet Lunaris",
+    "valuePrice": 150,
     "tier": "Common",
     "isSold": true,
-    "id": 11,
-    "discountPercentage": 0.22,
-    "finalPrice": 78
-  },
-  {
-    "url": "birthday/bday_aliens.png",
-    "name": "Birthday Alien Celebration",
-    "valuePrice": 3000,
-    "tier": "Rare",
-    "isSold": true,
-    "id": 33,
-    "discountPercentage": 0.09,
-    "finalPrice": 2730
+    "id": 21,
+    "discountPercentage": 0.41,
+    "finalPrice": 89
   }
 ]
