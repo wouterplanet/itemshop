@@ -1,25 +1,5 @@
 [
   {
-    "url": "space/space6.png",
-    "name": "space banner 6",
-    "valuePrice": 800,
-    "tier": "Epic",
-    "isSold": true,
-    "id": 21,
-    "discountPercentage": 0.25,
-    "finalPrice": 600
-  },
-  {
-    "url": "space/space4.png",
-    "name": "space banner 4",
-    "valuePrice": 100,
-    "tier": "Common",
-    "isSold": true,
-    "id": 19,
-    "discountPercentage": 0.41,
-    "finalPrice": 60
-  },
-  {
     "url": "winter/winter2.png",
     "name": "Winter Banner 2",
     "valuePrice": 200,
@@ -30,23 +10,43 @@
     "finalPrice": 102
   },
   {
+    "url": "space/space9.png",
+    "name": "space banner 9",
+    "valuePrice": 100,
+    "tier": "Common",
+    "isSold": true,
+    "id": 24,
+    "discountPercentage": 0.24,
+    "finalPrice": 76
+  },
+  {
+    "url": "space/space4.png",
+    "name": "space banner 4",
+    "valuePrice": 100,
+    "tier": "Common",
+    "isSold": true,
+    "id": 19,
+    "discountPercentage": 0.24,
+    "finalPrice": 76
+  },
+  {
+    "url": "space/space6.png",
+    "name": "space banner 6",
+    "valuePrice": 800,
+    "tier": "Epic",
+    "isSold": true,
+    "id": 21,
+    "discountPercentage": 0.21,
+    "finalPrice": 632
+  },
+  {
     "url": "space/space8.png",
     "name": "space banner 8",
     "valuePrice": 150,
     "tier": "Common",
     "isSold": true,
     "id": 23,
-    "discountPercentage": 0.63,
-    "finalPrice": 56
-  },
-  {
-    "url": "winter/winter3.png",
-    "name": "Winter Banner 3",
-    "valuePrice": 200,
-    "tier": "Common",
-    "isSold": true,
-    "id": 14,
-    "discountPercentage": 0.3,
-    "finalPrice": 140
+    "discountPercentage": 0.72,
+    "finalPrice": 43
   }
 ]
