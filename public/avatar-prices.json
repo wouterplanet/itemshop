@@ -1,33 +1,43 @@
 [
   {
-    "url": "whimsical/whimsical-space7.png",
-    "name": "Planet Solaris X",
-    "valuePrice": 150,
-    "tier": "Common",
+    "url": "whimsical/whimsical-space10.png",
+    "name": "Planet Nova Aurelia",
+    "valuePrice": 200,
+    "tier": "Rare",
     "isSold": true,
-    "id": 14,
-    "discountPercentage": 0.59,
-    "finalPrice": 62
+    "id": 17,
+    "discountPercentage": 0.06,
+    "finalPrice": 188
   },
   {
-    "url": "whimsical/whimsical-space2.png",
-    "name": "Planet Lunaris III",
-    "valuePrice": 80,
-    "tier": "Common",
+    "url": "birthday/bday_aliens.png",
+    "name": "Birthday Alien Celebration",
+    "valuePrice": 3000,
+    "tier": "Rare",
     "isSold": true,
-    "id": 9,
-    "discountPercentage": 0.42,
-    "finalPrice": 47
+    "id": 33,
+    "discountPercentage": 0.11,
+    "finalPrice": 2670
   },
   {
-    "url": "whimsical/whimsical-space9.png",
-    "name": "Planet Rex A.U",
+    "url": "whimsical/whimsical-space11.png",
+    "name": "Astroid Rain",
     "valuePrice": 150,
     "tier": "Uncommon",
     "isSold": true,
-    "id": 16,
-    "discountPercentage": 0.35,
-    "finalPrice": 98
+    "id": 18,
+    "discountPercentage": 0.42,
+    "finalPrice": 88
+  },
+  {
+    "url": "whimsical/whimsical-space16.png",
+    "name": "Planet Lunaria V",
+    "valuePrice": 150,
+    "tier": "Uncommon",
+    "isSold": true,
+    "id": 23,
+    "discountPercentage": 0.37,
+    "finalPrice": 95
   },
   {
     "url": "whimsical/whimsical-space4.png",
@@ -36,17 +46,7 @@
     "tier": "Common",
     "isSold": true,
     "id": 11,
-    "discountPercentage": 0.23,
-    "finalPrice": 77
-  },
-  {
-    "url": "whimsical/whimsical-space20.png",
-    "name": "Planet Nova Sagi",
-    "valuePrice": 100,
-    "tier": "Common",
-    "isSold": true,
-    "id": 27,
-    "discountPercentage": 0.33,
-    "finalPrice": 67
+    "discountPercentage": 0.74,
+    "finalPrice": 26
   }
 ]
