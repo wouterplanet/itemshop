@@ -6,8 +6,8 @@
     "tier": "Epic",
     "isSold": true,
     "id": 20,
-    "discountPercentage": 0.21,
-    "finalPrice": 711
+    "discountPercentage": 0.17,
+    "finalPrice": 747
   },
   {
     "url": "whimsical/whimsical-space20.png",
@@ -16,37 +16,37 @@
     "tier": "Common",
     "isSold": true,
     "id": 27,
-    "discountPercentage": 0.46,
-    "finalPrice": 54
+    "discountPercentage": 0.76,
+    "finalPrice": 24
   },
   {
-    "url": "whimsical/whimsical-space3.png",
-    "name": "Odesa Space Station",
-    "valuePrice": 150,
-    "tier": "Uncommon",
-    "isSold": true,
-    "id": 10,
-    "discountPercentage": 0.32,
-    "finalPrice": 102
-  },
-  {
-    "url": "whimsical/whimsical-space10.png",
-    "name": "Planet Nova Aurelia",
-    "valuePrice": 200,
-    "tier": "Rare",
-    "isSold": true,
-    "id": 17,
-    "discountPercentage": 0.17,
-    "finalPrice": 166
-  },
-  {
-    "url": "whimsical/whimsical-space12.png",
-    "name": "Launch of Odesa Mission One",
+    "url": "whimsical/whimsical-space1.png",
+    "name": "Planet Noctis",
     "valuePrice": 100,
     "tier": "Common",
     "isSold": true,
-    "id": 19,
-    "discountPercentage": 0.62,
-    "finalPrice": 38
+    "id": 8,
+    "discountPercentage": 0.45,
+    "finalPrice": 56
+  },
+  {
+    "url": "whimsical/whimsical-space17.png",
+    "name": "Floating Astronaut",
+    "valuePrice": 100,
+    "tier": "Common",
+    "isSold": true,
+    "id": 24,
+    "discountPercentage": 0.41,
+    "finalPrice": 60
+  },
+  {
+    "url": "whimsical/whimsical-space9.png",
+    "name": "Planet Rex A.U",
+    "valuePrice": 150,
+    "tier": "Uncommon",
+    "isSold": true,
+    "id": 16,
+    "discountPercentage": 0.32,
+    "finalPrice": 102
   }
 ]
