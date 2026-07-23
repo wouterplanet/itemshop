@@ -1,52 +1,52 @@
 [
   {
-    "url": "whimsical/whimsical-space11.png",
-    "name": "Astroid Rain",
+    "url": "whimsical/whimsical-space13.png",
+    "name": "Shooting Stars",
+    "valuePrice": 900,
+    "tier": "Epic",
+    "isSold": true,
+    "id": 20,
+    "discountPercentage": 0.16,
+    "finalPrice": 756
+  },
+  {
+    "url": "whimsical/whimsical-space14.png",
+    "name": "Planet Lunaris",
+    "valuePrice": 150,
+    "tier": "Common",
+    "isSold": true,
+    "id": 21,
+    "discountPercentage": 0.67,
+    "finalPrice": 50
+  },
+  {
+    "url": "whimsical/whimsical-space3.png",
+    "name": "Odesa Space Station",
     "valuePrice": 150,
     "tier": "Uncommon",
     "isSold": true,
-    "id": 18,
-    "discountPercentage": 0.57,
-    "finalPrice": 65
+    "id": 10,
+    "discountPercentage": 0.5,
+    "finalPrice": 75
   },
   {
-    "url": "birthday/bday_aliens.png",
-    "name": "Birthday Alien Celebration",
-    "valuePrice": 3000,
-    "tier": "Rare",
-    "isSold": true,
-    "id": 33,
-    "discountPercentage": 0.07,
-    "finalPrice": 2790
-  },
-  {
-    "url": "birthday/bday_ship2.png",
-    "name": "Birthday Party Ship 2",
-    "valuePrice": 1000,
-    "tier": "Epic",
-    "isSold": true,
-    "id": 32,
-    "discountPercentage": 0.13,
-    "finalPrice": 870
-  },
-  {
-    "url": "whimsical/whimsical-space6.png",
-    "name": "Planet Mosa Uno",
-    "valuePrice": 80,
-    "tier": "Common",
-    "isSold": true,
-    "id": 13,
-    "discountPercentage": 0.24,
-    "finalPrice": 61
-  },
-  {
-    "url": "whimsical/whimsical-space8.png",
-    "name": "Planet Palari",
+    "url": "whimsical/whimsical-space1.png",
+    "name": "Planet Noctis",
     "valuePrice": 100,
     "tier": "Common",
     "isSold": true,
-    "id": 15,
-    "discountPercentage": 0.73,
-    "finalPrice": 27
+    "id": 8,
+    "discountPercentage": 0.56,
+    "finalPrice": 44
+  },
+  {
+    "url": "whimsical/whimsical-space2.png",
+    "name": "Planet Lunaris III",
+    "valuePrice": 80,
+    "tier": "Common",
+    "isSold": true,
+    "id": 9,
+    "discountPercentage": 0.4,
+    "finalPrice": 48
   }
 ]
