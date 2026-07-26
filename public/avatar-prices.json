@@ -1,13 +1,43 @@
 [
   {
-    "url": "whimsical/whimsical-space11.png",
-    "name": "Astroid Rain",
+    "url": "whimsical/whimsical-space7.png",
+    "name": "Planet Solaris X",
     "valuePrice": 150,
-    "tier": "Uncommon",
+    "tier": "Common",
     "isSold": true,
-    "id": 18,
-    "discountPercentage": 0.31,
-    "finalPrice": 104
+    "id": 14,
+    "discountPercentage": 0.55,
+    "finalPrice": 68
+  },
+  {
+    "url": "whimsical/whimsical-space13.png",
+    "name": "Shooting Stars",
+    "valuePrice": 900,
+    "tier": "Epic",
+    "isSold": true,
+    "id": 20,
+    "discountPercentage": 0.15,
+    "finalPrice": 765
+  },
+  {
+    "url": "whimsical/whimsical-space6.png",
+    "name": "Planet Mosa Uno",
+    "valuePrice": 80,
+    "tier": "Common",
+    "isSold": true,
+    "id": 13,
+    "discountPercentage": 0.33,
+    "finalPrice": 54
+  },
+  {
+    "url": "birthday/bday_ship.png",
+    "name": "Birthday Party Ship",
+    "valuePrice": 1500,
+    "tier": "Rare",
+    "isSold": true,
+    "id": 31,
+    "discountPercentage": 0.13,
+    "finalPrice": 1305
   },
   {
     "url": "whimsical/whimsical-space16.png",
@@ -16,37 +46,7 @@
     "tier": "Uncommon",
     "isSold": true,
     "id": 23,
-    "discountPercentage": 0.44,
-    "finalPrice": 85
-  },
-  {
-    "url": "whimsical/whimsical-space12.png",
-    "name": "Launch of Odesa Mission One",
-    "valuePrice": 100,
-    "tier": "Common",
-    "isSold": true,
-    "id": 19,
-    "discountPercentage": 0.32,
-    "finalPrice": 68
-  },
-  {
-    "url": "whimsical/whimsical-space8.png",
-    "name": "Planet Palari",
-    "valuePrice": 100,
-    "tier": "Common",
-    "isSold": true,
-    "id": 15,
-    "discountPercentage": 0.38,
-    "finalPrice": 62
-  },
-  {
-    "url": "whimsical/whimsical-space17.png",
-    "name": "Floating Astronaut",
-    "valuePrice": 100,
-    "tier": "Common",
-    "isSold": true,
-    "id": 24,
-    "discountPercentage": 0.7,
-    "finalPrice": 31
+    "discountPercentage": 0.51,
+    "finalPrice": 74
   }
 ]
