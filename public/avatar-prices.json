@@ -1,13 +1,23 @@
 [
   {
-    "url": "whimsical/whimsical-space8.png",
-    "name": "Planet Palari",
+    "url": "whimsical/whimsical-space11.png",
+    "name": "Astroid Rain",
+    "valuePrice": 150,
+    "tier": "Uncommon",
+    "isSold": true,
+    "id": 18,
+    "discountPercentage": 0.56,
+    "finalPrice": 66
+  },
+  {
+    "url": "whimsical/whimsical-space4.png",
+    "name": "Odesa Mine Station",
     "valuePrice": 100,
     "tier": "Common",
     "isSold": true,
-    "id": 15,
-    "discountPercentage": 0.67,
-    "finalPrice": 33
+    "id": 11,
+    "discountPercentage": 0.39,
+    "finalPrice": 61
   },
   {
     "url": "whimsical/whimsical-space13.png",
@@ -16,37 +26,27 @@
     "tier": "Epic",
     "isSold": true,
     "id": 20,
-    "discountPercentage": 0.19,
-    "finalPrice": 729
+    "discountPercentage": 0.15,
+    "finalPrice": 765
   },
   {
-    "url": "whimsical/whimsical-space11.png",
-    "name": "Astroid Rain",
+    "url": "birthday/bday_ship2.png",
+    "name": "Birthday Party Ship 2",
+    "valuePrice": 1000,
+    "tier": "Epic",
+    "isSold": true,
+    "id": 32,
+    "discountPercentage": 0.17,
+    "finalPrice": 830
+  },
+  {
+    "url": "whimsical/whimsical-space9.png",
+    "name": "Planet Rex A.U",
     "valuePrice": 150,
     "tier": "Uncommon",
     "isSold": true,
-    "id": 18,
-    "discountPercentage": 0.52,
-    "finalPrice": 72
-  },
-  {
-    "url": "birthday/bday_aliens.png",
-    "name": "Birthday Alien Celebration",
-    "valuePrice": 3000,
-    "tier": "Rare",
-    "isSold": true,
-    "id": 33,
-    "discountPercentage": 0.04,
-    "finalPrice": 2880
-  },
-  {
-    "url": "birthday/bday_ship.png",
-    "name": "Birthday Party Ship",
-    "valuePrice": 1500,
-    "tier": "Rare",
-    "isSold": true,
-    "id": 31,
-    "discountPercentage": 0.08,
-    "finalPrice": 1380
+    "id": 16,
+    "discountPercentage": 0.38,
+    "finalPrice": 93
   }
 ]
