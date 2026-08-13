@@ -1,43 +1,13 @@
 [
   {
-    "url": "whimsical/whimsical-space7.png",
-    "name": "Planet Solaris X",
+    "url": "whimsical/whimsical-space14.png",
+    "name": "Planet Lunaris",
     "valuePrice": 150,
     "tier": "Common",
     "isSold": true,
-    "id": 14,
-    "discountPercentage": 0.7,
-    "finalPrice": 46
-  },
-  {
-    "url": "birthday/bday_ship2.png",
-    "name": "Birthday Party Ship 2",
-    "valuePrice": 1000,
-    "tier": "Epic",
-    "isSold": true,
-    "id": 32,
-    "discountPercentage": 0.17,
-    "finalPrice": 830
-  },
-  {
-    "url": "whimsical/whimsical-space12.png",
-    "name": "Launch of Odesa Mission One",
-    "valuePrice": 100,
-    "tier": "Common",
-    "isSold": true,
-    "id": 19,
-    "discountPercentage": 0.2,
-    "finalPrice": 80
-  },
-  {
-    "url": "whimsical/whimsical-space16.png",
-    "name": "Planet Lunaria V",
-    "valuePrice": 150,
-    "tier": "Uncommon",
-    "isSold": true,
-    "id": 23,
-    "discountPercentage": 0.36,
-    "finalPrice": 96
+    "id": 21,
+    "discountPercentage": 0.78,
+    "finalPrice": 33
   },
   {
     "url": "whimsical/whimsical-space19.png",
@@ -46,7 +16,37 @@
     "tier": "Common",
     "isSold": true,
     "id": 26,
-    "discountPercentage": 0.48,
-    "finalPrice": 52
+    "discountPercentage": 0.69,
+    "finalPrice": 32
+  },
+  {
+    "url": "whimsical/whimsical-space12.png",
+    "name": "Launch of Odesa Mission One",
+    "valuePrice": 100,
+    "tier": "Common",
+    "isSold": true,
+    "id": 19,
+    "discountPercentage": 0.68,
+    "finalPrice": 32
+  },
+  {
+    "url": "birthday/bday_ship.png",
+    "name": "Birthday Party Ship",
+    "valuePrice": 1500,
+    "tier": "Rare",
+    "isSold": true,
+    "id": 31,
+    "discountPercentage": 0,
+    "finalPrice": 1500
+  },
+  {
+    "url": "whimsical/whimsical-space2.png",
+    "name": "Planet Lunaris III",
+    "valuePrice": 80,
+    "tier": "Common",
+    "isSold": true,
+    "id": 9,
+    "discountPercentage": 0.51,
+    "finalPrice": 40
   }
 ]
