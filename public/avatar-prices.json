@@ -6,18 +6,38 @@
     "tier": "Uncommon",
     "isSold": true,
     "id": 23,
-    "discountPercentage": 0.35,
-    "finalPrice": 98
+    "discountPercentage": 0.29,
+    "finalPrice": 107
   },
   {
-    "url": "birthday/bday_aliens.png",
-    "name": "Birthday Alien Celebration",
-    "valuePrice": 3000,
+    "url": "whimsical/whimsical-space9.png",
+    "name": "Planet Rex A.U",
+    "valuePrice": 150,
+    "tier": "Uncommon",
+    "isSold": true,
+    "id": 16,
+    "discountPercentage": 0.59,
+    "finalPrice": 62
+  },
+  {
+    "url": "whimsical/whimsical-space10.png",
+    "name": "Planet Nova Aurelia",
+    "valuePrice": 200,
     "tier": "Rare",
     "isSold": true,
-    "id": 33,
-    "discountPercentage": 0.16,
-    "finalPrice": 2520
+    "id": 17,
+    "discountPercentage": 0.03,
+    "finalPrice": 194
+  },
+  {
+    "url": "whimsical/whimsical-space20.png",
+    "name": "Planet Nova Sagi",
+    "valuePrice": 100,
+    "tier": "Common",
+    "isSold": true,
+    "id": 27,
+    "discountPercentage": 0.7,
+    "finalPrice": 31
   },
   {
     "url": "whimsical/whimsical-space8.png",
@@ -26,27 +46,7 @@
     "tier": "Common",
     "isSold": true,
     "id": 15,
-    "discountPercentage": 0.54,
-    "finalPrice": 46
-  },
-  {
-    "url": "birthday/bday_ship.png",
-    "name": "Birthday Party Ship",
-    "valuePrice": 1500,
-    "tier": "Rare",
-    "isSold": true,
-    "id": 31,
-    "discountPercentage": 0.08,
-    "finalPrice": 1380
-  },
-  {
-    "url": "whimsical/whimsical-space14.png",
-    "name": "Planet Lunaris",
-    "valuePrice": 150,
-    "tier": "Common",
-    "isSold": true,
-    "id": 21,
-    "discountPercentage": 0.68,
-    "finalPrice": 48
+    "discountPercentage": 0.53,
+    "finalPrice": 47
   }
 ]
