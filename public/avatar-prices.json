@@ -1,52 +1,52 @@
 [
   {
-    "url": "whimsical/whimsical-space16.png",
-    "name": "Planet Lunaria V",
-    "valuePrice": 150,
-    "tier": "Uncommon",
-    "isSold": true,
-    "id": 23,
-    "discountPercentage": 0.29,
-    "finalPrice": 107
-  },
-  {
-    "url": "whimsical/whimsical-space9.png",
-    "name": "Planet Rex A.U",
-    "valuePrice": 150,
-    "tier": "Uncommon",
-    "isSold": true,
-    "id": 16,
-    "discountPercentage": 0.59,
-    "finalPrice": 62
-  },
-  {
-    "url": "whimsical/whimsical-space10.png",
-    "name": "Planet Nova Aurelia",
-    "valuePrice": 200,
-    "tier": "Rare",
-    "isSold": true,
-    "id": 17,
-    "discountPercentage": 0.03,
-    "finalPrice": 194
-  },
-  {
     "url": "whimsical/whimsical-space20.png",
     "name": "Planet Nova Sagi",
     "valuePrice": 100,
     "tier": "Common",
     "isSold": true,
     "id": 27,
-    "discountPercentage": 0.7,
-    "finalPrice": 31
+    "discountPercentage": 0.35,
+    "finalPrice": 65
   },
   {
-    "url": "whimsical/whimsical-space8.png",
-    "name": "Planet Palari",
+    "url": "whimsical/whimsical-space13.png",
+    "name": "Shooting Stars",
+    "valuePrice": 900,
+    "tier": "Epic",
+    "isSold": true,
+    "id": 20,
+    "discountPercentage": 0.18,
+    "finalPrice": 738
+  },
+  {
+    "url": "whimsical/whimsical-space16.png",
+    "name": "Planet Lunaria V",
+    "valuePrice": 150,
+    "tier": "Uncommon",
+    "isSold": true,
+    "id": 23,
+    "discountPercentage": 0.42,
+    "finalPrice": 88
+  },
+  {
+    "url": "whimsical/whimsical-space2.png",
+    "name": "Planet Lunaris III",
+    "valuePrice": 80,
+    "tier": "Common",
+    "isSold": true,
+    "id": 9,
+    "discountPercentage": 0.3,
+    "finalPrice": 56
+  },
+  {
+    "url": "whimsical/whimsical-space4.png",
+    "name": "Odesa Mine Station",
     "valuePrice": 100,
     "tier": "Common",
     "isSold": true,
-    "id": 15,
-    "discountPercentage": 0.53,
-    "finalPrice": 47
+    "id": 11,
+    "discountPercentage": 0.52,
+    "finalPrice": 48
   }
 ]
