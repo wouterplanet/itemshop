@@ -6,8 +6,8 @@
     "tier": "Common",
     "isSold": true,
     "id": 13,
-    "discountPercentage": 0.4,
-    "finalPrice": 120
+    "discountPercentage": 0.56,
+    "finalPrice": 88
   },
   {
     "url": "winter/winter3.png",
@@ -16,18 +16,8 @@
     "tier": "Common",
     "isSold": true,
     "id": 14,
-    "discountPercentage": 0.36,
-    "finalPrice": 128
-  },
-  {
-    "url": "space/space9.png",
-    "name": "space banner 9",
-    "valuePrice": 100,
-    "tier": "Common",
-    "isSold": true,
-    "id": 24,
-    "discountPercentage": 0.38,
-    "finalPrice": 62
+    "discountPercentage": 0.32,
+    "finalPrice": 136
   },
   {
     "url": "space/space8.png",
@@ -36,8 +26,18 @@
     "tier": "Common",
     "isSold": true,
     "id": 23,
-    "discountPercentage": 0.22,
-    "finalPrice": 117
+    "discountPercentage": 0.37,
+    "finalPrice": 95
+  },
+  {
+    "url": "space/space9.png",
+    "name": "space banner 9",
+    "valuePrice": 100,
+    "tier": "Common",
+    "isSold": true,
+    "id": 24,
+    "discountPercentage": 0.3,
+    "finalPrice": 70
   },
   {
     "url": "winter/winter4.png",
@@ -46,7 +46,7 @@
     "tier": "Common",
     "isSold": true,
     "id": 15,
-    "discountPercentage": 0.27,
-    "finalPrice": 146
+    "discountPercentage": 0.7,
+    "finalPrice": 61
   }
 ]
