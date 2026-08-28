@@ -1,13 +1,33 @@
 [
   {
-    "url": "whimsical/whimsical-space17.png",
-    "name": "Floating Astronaut",
-    "valuePrice": 100,
+    "url": "birthday/bday_ship.png",
+    "name": "Birthday Party Ship",
+    "valuePrice": 1500,
+    "tier": "Rare",
+    "isSold": true,
+    "id": 31,
+    "discountPercentage": 0.19,
+    "finalPrice": 1215
+  },
+  {
+    "url": "whimsical/whimsical-space15.png",
+    "name": "Space Ranger I",
+    "valuePrice": 80,
     "tier": "Common",
     "isSold": true,
-    "id": 24,
-    "discountPercentage": 0.69,
-    "finalPrice": 32
+    "id": 22,
+    "discountPercentage": 0.25,
+    "finalPrice": 60
+  },
+  {
+    "url": "whimsical/whimsical-space6.png",
+    "name": "Planet Mosa Uno",
+    "valuePrice": 80,
+    "tier": "Common",
+    "isSold": true,
+    "id": 13,
+    "discountPercentage": 0.62,
+    "finalPrice": 31
   },
   {
     "url": "whimsical/whimsical-space14.png",
@@ -16,28 +36,8 @@
     "tier": "Common",
     "isSold": true,
     "id": 21,
-    "discountPercentage": 0.35,
-    "finalPrice": 98
-  },
-  {
-    "url": "whimsical/whimsical-space3.png",
-    "name": "Odesa Space Station",
-    "valuePrice": 150,
-    "tier": "Uncommon",
-    "isSold": true,
-    "id": 10,
-    "discountPercentage": 0.48,
-    "finalPrice": 78
-  },
-  {
-    "url": "birthday/bday_aliens.png",
-    "name": "Birthday Alien Celebration",
-    "valuePrice": 3000,
-    "tier": "Rare",
-    "isSold": true,
-    "id": 33,
-    "discountPercentage": 0.05,
-    "finalPrice": 2850
+    "discountPercentage": 0.4,
+    "finalPrice": 90
   },
   {
     "url": "whimsical/whimsical-space16.png",
@@ -46,7 +46,7 @@
     "tier": "Uncommon",
     "isSold": true,
     "id": 23,
-    "discountPercentage": 0.55,
-    "finalPrice": 68
+    "discountPercentage": 0.47,
+    "finalPrice": 80
   }
 ]
