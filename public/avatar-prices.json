@@ -1,52 +1,52 @@
 [
   {
-    "url": "whimsical/whimsical-space15.png",
-    "name": "Space Ranger I",
-    "valuePrice": 80,
+    "url": "whimsical/whimsical-space14.png",
+    "name": "Planet Lunaris",
+    "valuePrice": 150,
     "tier": "Common",
     "isSold": true,
-    "id": 22,
-    "discountPercentage": 0.58,
-    "finalPrice": 34
+    "id": 21,
+    "discountPercentage": 0.6,
+    "finalPrice": 60
   },
   {
-    "url": "whimsical/whimsical-space20.png",
-    "name": "Planet Nova Sagi",
+    "url": "whimsical/whimsical-space3.png",
+    "name": "Odesa Space Station",
+    "valuePrice": 150,
+    "tier": "Uncommon",
+    "isSold": true,
+    "id": 10,
+    "discountPercentage": 0.44,
+    "finalPrice": 85
+  },
+  {
+    "url": "whimsical/whimsical-space4.png",
+    "name": "Odesa Mine Station",
     "valuePrice": 100,
     "tier": "Common",
     "isSold": true,
-    "id": 27,
-    "discountPercentage": 0.45,
-    "finalPrice": 56
+    "id": 11,
+    "discountPercentage": 0.28,
+    "finalPrice": 72
   },
   {
-    "url": "whimsical/whimsical-space13.png",
-    "name": "Shooting Stars",
-    "valuePrice": 900,
-    "tier": "Epic",
-    "isSold": true,
-    "id": 20,
-    "discountPercentage": 0.14,
-    "finalPrice": 774
-  },
-  {
-    "url": "whimsical/whimsical-space6.png",
-    "name": "Planet Mosa Uno",
+    "url": "whimsical/whimsical-space5.png",
+    "name": "Planet Aurora",
     "valuePrice": 80,
     "tier": "Common",
     "isSold": true,
-    "id": 13,
-    "discountPercentage": 0.77,
-    "finalPrice": 19
+    "id": 12,
+    "discountPercentage": 0.62,
+    "finalPrice": 31
   },
   {
-    "url": "birthday/bday_ship2.png",
-    "name": "Birthday Party Ship 2",
-    "valuePrice": 1000,
-    "tier": "Epic",
+    "url": "whimsical/whimsical-space12.png",
+    "name": "Launch of Odesa Mission One",
+    "valuePrice": 100,
+    "tier": "Common",
     "isSold": true,
-    "id": 32,
-    "discountPercentage": 0.17,
-    "finalPrice": 830
+    "id": 19,
+    "discountPercentage": 0.66,
+    "finalPrice": 34
   }
 ]
