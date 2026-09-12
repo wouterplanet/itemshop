@@ -1,33 +1,33 @@
 [
   {
-    "url": "whimsical/whimsical-space20.png",
-    "name": "Planet Nova Sagi",
-    "valuePrice": 100,
-    "tier": "Common",
+    "url": "whimsical/whimsical-space16.png",
+    "name": "Planet Lunaria V",
+    "valuePrice": 150,
+    "tier": "Uncommon",
     "isSold": true,
-    "id": 27,
-    "discountPercentage": 0.65,
-    "finalPrice": 35
+    "id": 23,
+    "discountPercentage": 0.4,
+    "finalPrice": 90
   },
   {
-    "url": "whimsical/whimsical-space5.png",
-    "name": "Planet Aurora",
+    "url": "whimsical/whimsical-space2.png",
+    "name": "Planet Lunaris III",
     "valuePrice": 80,
     "tier": "Common",
     "isSold": true,
-    "id": 12,
-    "discountPercentage": 0.79,
-    "finalPrice": 17
+    "id": 9,
+    "discountPercentage": 0.61,
+    "finalPrice": 32
   },
   {
-    "url": "birthday/bday_ship.png",
-    "name": "Birthday Party Ship",
-    "valuePrice": 1500,
-    "tier": "Rare",
+    "url": "whimsical/whimsical-space4.png",
+    "name": "Odesa Mine Station",
+    "valuePrice": 100,
+    "tier": "Common",
     "isSold": true,
-    "id": 31,
-    "discountPercentage": 0.04,
-    "finalPrice": 1440
+    "id": 11,
+    "discountPercentage": 0.65,
+    "finalPrice": 35
   },
   {
     "url": "whimsical/whimsical-space19.png",
@@ -36,17 +36,17 @@
     "tier": "Common",
     "isSold": true,
     "id": 26,
-    "discountPercentage": 0.71,
-    "finalPrice": 30
+    "discountPercentage": 0.54,
+    "finalPrice": 46
   },
   {
-    "url": "whimsical/whimsical-space17.png",
-    "name": "Floating Astronaut",
-    "valuePrice": 100,
-    "tier": "Common",
+    "url": "whimsical/whimsical-space3.png",
+    "name": "Odesa Space Station",
+    "valuePrice": 150,
+    "tier": "Uncommon",
     "isSold": true,
-    "id": 24,
-    "discountPercentage": 0.47,
-    "finalPrice": 53
+    "id": 10,
+    "discountPercentage": 0.38,
+    "finalPrice": 93
   }
 ]
