@@ -1,33 +1,23 @@
 [
   {
-    "url": "whimsical/whimsical-space13.png",
-    "name": "Shooting Stars",
-    "valuePrice": 900,
-    "tier": "Epic",
-    "isSold": true,
-    "id": 20,
-    "discountPercentage": 0.24,
-    "finalPrice": 684
-  },
-  {
-    "url": "birthday/bday_ship2.png",
-    "name": "Birthday Party Ship 2",
-    "valuePrice": 1000,
-    "tier": "Epic",
-    "isSold": true,
-    "id": 32,
-    "discountPercentage": 0.16,
-    "finalPrice": 840
-  },
-  {
-    "url": "whimsical/whimsical-space6.png",
-    "name": "Planet Mosa Uno",
-    "valuePrice": 80,
+    "url": "whimsical/whimsical-space1.png",
+    "name": "Planet Noctis",
+    "valuePrice": 100,
     "tier": "Common",
     "isSold": true,
-    "id": 13,
-    "discountPercentage": 0.41,
-    "finalPrice": 48
+    "id": 8,
+    "discountPercentage": 0.47,
+    "finalPrice": 53
+  },
+  {
+    "url": "whimsical/whimsical-space9.png",
+    "name": "Planet Rex A.U",
+    "valuePrice": 150,
+    "tier": "Uncommon",
+    "isSold": true,
+    "id": 16,
+    "discountPercentage": 0.51,
+    "finalPrice": 74
   },
   {
     "url": "whimsical/whimsical-space3.png",
@@ -36,8 +26,18 @@
     "tier": "Uncommon",
     "isSold": true,
     "id": 10,
-    "discountPercentage": 0.45,
-    "finalPrice": 83
+    "discountPercentage": 0.48,
+    "finalPrice": 78
+  },
+  {
+    "url": "whimsical/whimsical-space12.png",
+    "name": "Launch of Odesa Mission One",
+    "valuePrice": 100,
+    "tier": "Common",
+    "isSold": true,
+    "id": 19,
+    "discountPercentage": 0.37,
+    "finalPrice": 63
   },
   {
     "url": "whimsical/whimsical-space14.png",
@@ -46,7 +46,7 @@
     "tier": "Common",
     "isSold": true,
     "id": 21,
-    "discountPercentage": 0.61,
-    "finalPrice": 59
+    "discountPercentage": 0.72,
+    "finalPrice": 43
   }
 ]
