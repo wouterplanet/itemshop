@@ -1,52 +1,52 @@
 [
   {
-    "url": "whimsical/whimsical-space13.png",
-    "name": "Shooting Stars",
-    "valuePrice": 900,
-    "tier": "Epic",
+    "url": "whimsical/whimsical-space10.png",
+    "name": "Planet Nova Aurelia",
+    "valuePrice": 200,
+    "tier": "Rare",
     "isSold": true,
-    "id": 20,
-    "discountPercentage": 0.17,
-    "finalPrice": 747
+    "id": 17,
+    "discountPercentage": 0.08,
+    "finalPrice": 184
   },
   {
-    "url": "whimsical/whimsical-space3.png",
-    "name": "Odesa Space Station",
+    "url": "whimsical/whimsical-space16.png",
+    "name": "Planet Lunaria V",
     "valuePrice": 150,
     "tier": "Uncommon",
     "isSold": true,
-    "id": 10,
+    "id": 23,
     "discountPercentage": 0.31,
     "finalPrice": 104
   },
   {
-    "url": "whimsical/whimsical-space12.png",
-    "name": "Launch of Odesa Mission One",
-    "valuePrice": 100,
-    "tier": "Common",
-    "isSold": true,
-    "id": 19,
-    "discountPercentage": 0.53,
-    "finalPrice": 47
-  },
-  {
-    "url": "whimsical/whimsical-space15.png",
-    "name": "Space Ranger I",
-    "valuePrice": 80,
-    "tier": "Common",
-    "isSold": true,
-    "id": 22,
-    "discountPercentage": 0.44,
-    "finalPrice": 45
-  },
-  {
-    "url": "whimsical/whimsical-space11.png",
-    "name": "Astroid Rain",
+    "url": "whimsical/whimsical-space9.png",
+    "name": "Planet Rex A.U",
     "valuePrice": 150,
     "tier": "Uncommon",
     "isSold": true,
-    "id": 18,
-    "discountPercentage": 0.3,
-    "finalPrice": 105
+    "id": 16,
+    "discountPercentage": 0.4,
+    "finalPrice": 90
+  },
+  {
+    "url": "whimsical/whimsical-space5.png",
+    "name": "Planet Aurora",
+    "valuePrice": 80,
+    "tier": "Common",
+    "isSold": true,
+    "id": 12,
+    "discountPercentage": 0.57,
+    "finalPrice": 35
+  },
+  {
+    "url": "whimsical/whimsical-space8.png",
+    "name": "Planet Palari",
+    "valuePrice": 100,
+    "tier": "Common",
+    "isSold": true,
+    "id": 15,
+    "discountPercentage": 0.36,
+    "finalPrice": 64
   }
 ]
