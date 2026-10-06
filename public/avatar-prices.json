@@ -1,52 +1,52 @@
 [
   {
-    "url": "whimsical/whimsical-space7.png",
-    "name": "Planet Solaris X",
-    "valuePrice": 150,
+    "url": "whimsical/whimsical-space6.png",
+    "name": "Planet Mosa Uno",
+    "valuePrice": 80,
     "tier": "Common",
     "isSold": true,
-    "id": 14,
-    "discountPercentage": 0.79,
-    "finalPrice": 32
+    "id": 13,
+    "discountPercentage": 0.63,
+    "finalPrice": 30
   },
   {
-    "url": "whimsical/whimsical-space13.png",
-    "name": "Shooting Stars",
-    "valuePrice": 900,
-    "tier": "Epic",
-    "isSold": true,
-    "id": 20,
-    "discountPercentage": 0.12,
-    "finalPrice": 792
-  },
-  {
-    "url": "whimsical/whimsical-space8.png",
-    "name": "Planet Palari",
+    "url": "whimsical/whimsical-space1.png",
+    "name": "Planet Noctis",
     "valuePrice": 100,
     "tier": "Common",
     "isSold": true,
-    "id": 15,
-    "discountPercentage": 0.22,
-    "finalPrice": 78
+    "id": 8,
+    "discountPercentage": 0.5,
+    "finalPrice": 50
   },
   {
-    "url": "whimsical/whimsical-space12.png",
-    "name": "Launch of Odesa Mission One",
+    "url": "whimsical/whimsical-space16.png",
+    "name": "Planet Lunaria V",
+    "valuePrice": 150,
+    "tier": "Uncommon",
+    "isSold": true,
+    "id": 23,
+    "discountPercentage": 0.3,
+    "finalPrice": 105
+  },
+  {
+    "url": "whimsical/whimsical-space10.png",
+    "name": "Planet Nova Aurelia",
+    "valuePrice": 200,
+    "tier": "Rare",
+    "isSold": true,
+    "id": 17,
+    "discountPercentage": 0.06,
+    "finalPrice": 188
+  },
+  {
+    "url": "whimsical/whimsical-space20.png",
+    "name": "Planet Nova Sagi",
     "valuePrice": 100,
     "tier": "Common",
     "isSold": true,
-    "id": 19,
-    "discountPercentage": 0.26,
-    "finalPrice": 74
-  },
-  {
-    "url": "whimsical/whimsical-space14.png",
-    "name": "Planet Lunaris",
-    "valuePrice": 150,
-    "tier": "Common",
-    "isSold": true,
-    "id": 21,
-    "discountPercentage": 0.59,
+    "id": 27,
+    "discountPercentage": 0.38,
     "finalPrice": 62
   }
 ]
