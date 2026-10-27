@@ -1,13 +1,33 @@
 [
   {
-    "url": "whimsical/whimsical-space17.png",
-    "name": "Floating Astronaut",
-    "valuePrice": 100,
-    "tier": "Common",
+    "url": "whimsical/whimsical-space13.png",
+    "name": "Shooting Stars",
+    "valuePrice": 900,
+    "tier": "Epic",
     "isSold": true,
-    "id": 24,
-    "discountPercentage": 0.75,
-    "finalPrice": 25
+    "id": 20,
+    "discountPercentage": 0.17,
+    "finalPrice": 747
+  },
+  {
+    "url": "birthday/bday_aliens.png",
+    "name": "Birthday Alien Celebration",
+    "valuePrice": 3000,
+    "tier": "Rare",
+    "isSold": true,
+    "id": 33,
+    "discountPercentage": 0.14,
+    "finalPrice": 2580
+  },
+  {
+    "url": "whimsical/whimsical-space10.png",
+    "name": "Planet Nova Aurelia",
+    "valuePrice": 200,
+    "tier": "Rare",
+    "isSold": true,
+    "id": 17,
+    "discountPercentage": 0.14,
+    "finalPrice": 172
   },
   {
     "url": "whimsical/whimsical-space14.png",
@@ -16,37 +36,17 @@
     "tier": "Common",
     "isSold": true,
     "id": 21,
-    "discountPercentage": 0.22,
-    "finalPrice": 117
+    "discountPercentage": 0.61,
+    "finalPrice": 59
   },
   {
-    "url": "whimsical/whimsical-space19.png",
-    "name": "Planet Ronan",
-    "valuePrice": 100,
+    "url": "whimsical/whimsical-space7.png",
+    "name": "Planet Solaris X",
+    "valuePrice": 150,
     "tier": "Common",
     "isSold": true,
-    "id": 26,
-    "discountPercentage": 0.66,
-    "finalPrice": 34
-  },
-  {
-    "url": "whimsical/whimsical-space5.png",
-    "name": "Planet Aurora",
-    "valuePrice": 80,
-    "tier": "Common",
-    "isSold": true,
-    "id": 12,
-    "discountPercentage": 0.51,
-    "finalPrice": 40
-  },
-  {
-    "url": "whimsical/whimsical-space8.png",
-    "name": "Planet Palari",
-    "valuePrice": 100,
-    "tier": "Common",
-    "isSold": true,
-    "id": 15,
-    "discountPercentage": 0.27,
-    "finalPrice": 73
+    "id": 14,
+    "discountPercentage": 0.67,
+    "finalPrice": 50
   }
 ]
