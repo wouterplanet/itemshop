@@ -1,43 +1,33 @@
 [
   {
-    "url": "whimsical/whimsical-space13.png",
-    "name": "Shooting Stars",
-    "valuePrice": 900,
-    "tier": "Epic",
+    "url": "birthday/bday_ship.png",
+    "name": "Birthday Party Ship",
+    "valuePrice": 1500,
+    "tier": "Rare",
     "isSold": true,
-    "id": 20,
-    "discountPercentage": 0.17,
-    "finalPrice": 747
+    "id": 31,
+    "discountPercentage": 0.07,
+    "finalPrice": 1395
   },
   {
-    "url": "whimsical/whimsical-space9.png",
-    "name": "Planet Rex A.U",
-    "valuePrice": 150,
-    "tier": "Uncommon",
-    "isSold": true,
-    "id": 16,
-    "discountPercentage": 0.28,
-    "finalPrice": 108
-  },
-  {
-    "url": "whimsical/whimsical-space5.png",
-    "name": "Planet Aurora",
+    "url": "whimsical/whimsical-space6.png",
+    "name": "Planet Mosa Uno",
     "valuePrice": 80,
     "tier": "Common",
     "isSold": true,
-    "id": 12,
-    "discountPercentage": 0.21,
-    "finalPrice": 64
+    "id": 13,
+    "discountPercentage": 0.71,
+    "finalPrice": 24
   },
   {
-    "url": "whimsical/whimsical-space2.png",
-    "name": "Planet Lunaris III",
-    "valuePrice": 80,
+    "url": "whimsical/whimsical-space17.png",
+    "name": "Floating Astronaut",
+    "valuePrice": 100,
     "tier": "Common",
     "isSold": true,
-    "id": 9,
-    "discountPercentage": 0.7,
-    "finalPrice": 25
+    "id": 24,
+    "discountPercentage": 0.74,
+    "finalPrice": 26
   },
   {
     "url": "whimsical/whimsical-space1.png",
@@ -46,7 +36,17 @@
     "tier": "Common",
     "isSold": true,
     "id": 8,
-    "discountPercentage": 0.24,
-    "finalPrice": 76
+    "discountPercentage": 0.6,
+    "finalPrice": 40
+  },
+  {
+    "url": "whimsical/whimsical-space10.png",
+    "name": "Planet Nova Aurelia",
+    "valuePrice": 200,
+    "tier": "Rare",
+    "isSold": true,
+    "id": 17,
+    "discountPercentage": 0.13,
+    "finalPrice": 174
   }
 ]
