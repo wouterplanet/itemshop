@@ -1,33 +1,23 @@
 [
   {
-    "url": "whimsical/whimsical-space5.png",
-    "name": "Planet Aurora",
-    "valuePrice": 80,
-    "tier": "Common",
+    "url": "whimsical/whimsical-space10.png",
+    "name": "Planet Nova Aurelia",
+    "valuePrice": 200,
+    "tier": "Rare",
     "isSold": true,
-    "id": 12,
-    "discountPercentage": 0.78,
-    "finalPrice": 18
+    "id": 17,
+    "discountPercentage": 0.18,
+    "finalPrice": 164
   },
   {
-    "url": "whimsical/whimsical-space15.png",
-    "name": "Space Ranger I",
-    "valuePrice": 80,
-    "tier": "Common",
-    "isSold": true,
-    "id": 22,
-    "discountPercentage": 0.29,
-    "finalPrice": 57
-  },
-  {
-    "url": "whimsical/whimsical-space3.png",
-    "name": "Odesa Space Station",
+    "url": "whimsical/whimsical-space16.png",
+    "name": "Planet Lunaria V",
     "valuePrice": 150,
     "tier": "Uncommon",
     "isSold": true,
-    "id": 10,
-    "discountPercentage": 0.3,
-    "finalPrice": 105
+    "id": 23,
+    "discountPercentage": 0.29,
+    "finalPrice": 107
   },
   {
     "url": "whimsical/whimsical-space12.png",
@@ -36,17 +26,27 @@
     "tier": "Common",
     "isSold": true,
     "id": 19,
-    "discountPercentage": 0.55,
-    "finalPrice": 45
+    "discountPercentage": 0.3,
+    "finalPrice": 70
   },
   {
-    "url": "whimsical/whimsical-space19.png",
-    "name": "Planet Ronan",
+    "url": "whimsical/whimsical-space6.png",
+    "name": "Planet Mosa Uno",
+    "valuePrice": 80,
+    "tier": "Common",
+    "isSold": true,
+    "id": 13,
+    "discountPercentage": 0.56,
+    "finalPrice": 36
+  },
+  {
+    "url": "whimsical/whimsical-space1.png",
+    "name": "Planet Noctis",
     "valuePrice": 100,
     "tier": "Common",
     "isSold": true,
-    "id": 26,
-    "discountPercentage": 0.43,
-    "finalPrice": 58
+    "id": 8,
+    "discountPercentage": 0.44,
+    "finalPrice": 57
   }
 ]
