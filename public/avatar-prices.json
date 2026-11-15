@@ -1,33 +1,43 @@
 [
   {
-    "url": "birthday/bday_aliens.png",
-    "name": "Birthday Alien Celebration",
-    "valuePrice": 3000,
-    "tier": "Rare",
-    "isSold": true,
-    "id": 33,
-    "discountPercentage": 0.19,
-    "finalPrice": 2430
-  },
-  {
-    "url": "whimsical/whimsical-space20.png",
-    "name": "Planet Nova Sagi",
-    "valuePrice": 100,
-    "tier": "Common",
-    "isSold": true,
-    "id": 27,
-    "discountPercentage": 0.45,
-    "finalPrice": 56
-  },
-  {
     "url": "whimsical/whimsical-space6.png",
     "name": "Planet Mosa Uno",
     "valuePrice": 80,
     "tier": "Common",
     "isSold": true,
     "id": 13,
-    "discountPercentage": 0.52,
-    "finalPrice": 39
+    "discountPercentage": 0.33,
+    "finalPrice": 54
+  },
+  {
+    "url": "birthday/bday_ship.png",
+    "name": "Birthday Party Ship",
+    "valuePrice": 1500,
+    "tier": "Rare",
+    "isSold": true,
+    "id": 31,
+    "discountPercentage": 0,
+    "finalPrice": 1500
+  },
+  {
+    "url": "birthday/bday_ship2.png",
+    "name": "Birthday Party Ship 2",
+    "valuePrice": 1000,
+    "tier": "Epic",
+    "isSold": true,
+    "id": 32,
+    "discountPercentage": 0.2,
+    "finalPrice": 800
+  },
+  {
+    "url": "birthday/bday_aliens.png",
+    "name": "Birthday Alien Celebration",
+    "valuePrice": 3000,
+    "tier": "Rare",
+    "isSold": true,
+    "id": 33,
+    "discountPercentage": 0.06,
+    "finalPrice": 2820
   },
   {
     "url": "whimsical/whimsical-space13.png",
@@ -36,17 +46,7 @@
     "tier": "Epic",
     "isSold": true,
     "id": 20,
-    "discountPercentage": 0.1,
-    "finalPrice": 810
-  },
-  {
-    "url": "whimsical/whimsical-space16.png",
-    "name": "Planet Lunaria V",
-    "valuePrice": 150,
-    "tier": "Uncommon",
-    "isSold": true,
-    "id": 23,
-    "discountPercentage": 0.45,
-    "finalPrice": 83
+    "discountPercentage": 0.12,
+    "finalPrice": 792
   }
 ]
